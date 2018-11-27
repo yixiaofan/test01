@@ -1,0 +1,11 @@
+.div1::before{
+	content: "123";
+}
+.div1::after{
+	content: "321";
+}
+	
+.list{
+	float: left;
+	list-style:none;
+}
